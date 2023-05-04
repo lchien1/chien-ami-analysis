@@ -187,6 +187,7 @@ def write_out(forms):
             f.write(form.root+formatted_tags+':'+form.text+form.suffix)
             f.write('\n')
             analyses[form.text+form.suffix] = form.root+formatted_tags
+    return analyses
 
 def main():
     # read all the text files
@@ -214,7 +215,7 @@ def main():
         try:
             print(analyses[word])
         except:
-            pass 
+            pass
     #print([(con.text+con.suffix, con.tags) for con in conjunctions])
     #print(len(conjunctions))
 
