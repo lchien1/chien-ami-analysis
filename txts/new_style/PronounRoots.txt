@@ -1,0 +1,8 @@
+aku,pers,sg,p1
+isu,pers,sg,p2
+ingra,pers,sg,p3
+ira,pers,sg,p3
+ita,pers,pl,p1,incl
+ami,pers,pl,p1,excl
+amu,pers,pl,p2
+angra,pers,pl,p3

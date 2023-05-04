@@ -1,0 +1,5 @@
+:sa>pi <ins1>:
+:sa>ka <ins2>:
+:mi> <pat><loc>:an
+:ka> <pat><loc>:an
+:pi> <loca><loc>:an

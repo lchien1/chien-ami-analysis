@@ -1,0 +1,8 @@
+aku:aku     <pers><sg><p1>:
+isu:isu     <pers><sg><p2>:
+ingra:ingra <pers><sg><p3>:
+ira:ira     <pers><sg><p3>: # Possible fix to pronoun spelling issue
+ita:ita     <pers><pl><p1><incl>:
+ami:ami     <pers><pl><p1><excl>:
+amu:amu     <pers><pl><p2>:
+angra:angra <pers><pl><p3>:

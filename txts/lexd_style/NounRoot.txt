@@ -1,0 +1,148 @@
+alapit:alapit   # chopstick
+ʼacofel:ʼacofel # smoke
+ʼada:ʼada       # enemy
+ʼadipangpang:ʼadipangpang # butterfly
+ʼafar:ʼafar     # shrimp
+ʼafala:ʼafala   # shoulder
+ʼalo:ʼalo       # stream
+ʼatay:ʼatay     # liver
+ʼayam:ʼayam     # bird, chicken
+cepiʼ:cepiʼ     # thigh
+ciciw:ciciw     # suckling pig
+ciko:ciko       # elbow
+cidal:cidal     # sun
+coco:coco       # breast
+codad:codad     # book
+dadaya:dadaya   # evening
+dadipis:dadipis # cockroach
+dafak:dafak     # morning
+dateng:dateng   # vegetable
+demak:demak     # an activity/a happening/the thing one does/work
+dokaʼ:dokaʼ     # wound
+eco:eco         # elephant
+efa:efa         # horse
+ekong:ekong     # owl
+ʼepah:ʼepah     # wine
+facacidoʼ:facacidoʼ # dragonfly
+fadahong:fadahong # roof
+fadowac:fadowac # rib
+fafahian:fafahian # woman
+fafoy:fafoy     # pig
+fai:fai         # aunt
+faki:faki       # uncle
+fakici:fakici   # bucket
+falah:falah     # coal
+falalotong:falalotong # spider
+falaʼ:falaʼ     # lung
+fali:fali       # wind
+faliyos:faliyos # typhoon
+falocoʼ:falocoʼ # heart
+falohang:falohang # chest
+fanges:fanges   # skin
+fanoh:fanoh     # fur
+faʼinayan:faʼinayan # man
+filfil:filfil   # lip
+fitoka:fitoka   # stomach
+fohang:fohang   # hole
+fokes:fokes     # hair
+folad:folad     # moon
+foting:foting   # fish
+fowaʼ:fowaʼ     # kidney
+foʼis:foʼis     # star
+hana:hana       # flower
+hemay:hemay     # rice, cooked rice
+idoc:idoc       # spear
+ina:ina         # mother
+inacila:inacila # yesterday
+ising:ising     # doctor
+kaka:kaka       # older sibling
+kakiriʼan:kakiriʼan # armpit
+kalang:kalang   # crab
+kamay:kamay     # hand
+kapah:kapah     # young people
+kasienawan:kasienawan # winter
+kawas:kawas
+kaying:kaying   # young woman
+kilang:kilang
+kilakilangan:kilakilangan # forest
+kolafaw:kolafaw # vole
+koli:koli       # ice
+kolong:kolong   # water buffalo, cattle
+koror:koror     # back
+koto:koto       # head louse
+kowaʼ:kowaʼ     # papaya
+koyo:koyo       # a small animal, a mammal, leopard cat
+lalan:lalan     # road
+lalangaw:lalangaw # fly
+lawal:lawal     # flying squirrel
+likes:likes     # mosquito
+litaul:litaul   # egg
+liʼel:liʼel           # neck
+lokedaw:lokedaw # leopard
+lomaʼ:lomaʼ     # house, home
+losay:losay
+lotok:lotok     # mountain
+lotong:lotong   # monkey
+mama:mama       # father
+mata:mata       # eye
+matuʼasay:matuʼasay # old person/old people
+mitiliday:mitiliday # student
+nanum:nanum     # water
+ngangan:ngangan # name
+ngalay:ngalay   # saliva
+ngaroy:ngaroy   # chin
+ngosoʼ:ngosoʼ   # nose
+ngoyos:ngoyos   # mouth
+ʼoner:ʼoner     # snake
+orad:orad       # rain
+papah:papah     # leaf
+pawli:pawli     # banana
+payso:payso     # money
+pising:pising   # face
+pitilidan:pitilidan # school
+pokoh:pokoh     # joint
+posi:posi       # cat
+radiw:radiw     # song, music
+ramod:ramod     # spouse
+raraw:raraw     # mistake
+rarokoh:rarokoh # turtle
+rikec:rikec
+rinom:rinom     # needle
+romiʼad:romiʼad # day, daytime
+safa:safa       # younger sibling
+safon:safon     # soap
+sala:sala       # dish
+sanek:sanek     # a bad odor/smell
+sapikpik:sapikpik # wing
+saripaʼ:saripaʼ # sole of the foot
+satahaf:satahaf # lid
+sema:sema       # tongue
+simal:simal     # grease
+sinabel:sinabel # dish (like food)
+singsi:singsi   # teacher
+siri:siri       # sheep
+sowal:sowal
+takolaw:takolaw # throat
+takolaʼ:takolaʼ # frog
+takolil:takolil # rabbit
+tali:tali       # taro
+tamdaw:tamdaw
+tangal:tangal   # head
+Tapang:Tapang
+tatelecan:tatelecan # waist
+tawinaan:tawinaan # female animal
+tilifi:tilifi   # television
+titi:titi       # meat
+tiyad:tiyad     # belly
+toki:toki       # clock, watch
+tolohoʼ:tolohoʼ # phlegm
+toʼeman:toʼeman # darkness
+tomay:tomay     # bear
+tumuk:tumuk     # chief
+tusiya:tusiya   # car
+wacu:wacu       # dog
+wadis:wadis     # teeth
+waneng:waneng   # sugar, candy
+wawa:wawa       # child
+widang:widang   # friend
+wikol:wikol     # tail

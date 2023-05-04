@@ -1,0 +1,12 @@
+hemek:hemek     # happy
+kuhting:kuhting # black
+miming:miming   # little, a little bit
+ngaʼay:ngaʼay   # fine, okay, agree, good
+rarom:rarom     # sad
+tataʼak:tataʼak # big
+tataʼang:tataʼang # big
+tatiʼih:tatiʼih # bad, evil, not good
+fangcal:fangcal # good, very good, fine
+faʼedet:faʼedet # hot
+cedem:cedem     # sweet (tasting)
+lipahak:lipahak # happy

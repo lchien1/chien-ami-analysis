@@ -1,0 +1,10 @@
+cecay:cecay     # one
+tusa:tusa       # two
+tulu:tulu       # three
+sepat:sepat     # four
+lima:lima       # five
+enem:enem       # six
+pitu:pitu       # seven
+falo:falo       # eight
+siwa:siwa       # nine
+poloʼ:poloʼ     # ten

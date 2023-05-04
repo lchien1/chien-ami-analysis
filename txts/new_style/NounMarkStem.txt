@@ -1,0 +1,3 @@
+u,um
+i,sg
+a,pl

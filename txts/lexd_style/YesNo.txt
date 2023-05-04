@@ -1,0 +1,2 @@
+caay:caay       # no, negative
+hay:hay         # yes

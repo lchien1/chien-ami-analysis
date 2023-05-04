@@ -1,0 +1,3 @@
+ni:ni       <dem><prx>:
+ra:ra       <dem><dst><vis>:
+ya:ya       <dem><dst><invs>:

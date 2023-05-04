@@ -1,0 +1,100 @@
+Acor:Acor       <ant>:  # Azor
+Adek:Adek       <ant>:
+Ahac:Ahac       <ant>:  # Ahaz
+Aki:Aki         <ant>:
+Akim:Akim       <ant>:  # Akim
+Alfayus:Alfayus <ant>:  # Alphaeus
+Aminatap:Aminatap <ant>: # Amminadab
+Amis:Amis       <al>:
+Amon:Amon       <ant>:  # Amon
+Antiri:Antiri   <ant>:  # Andrew
+Apiya:Apiya     <ant>:  # Abijah
+Apiyut:Apiyut   <ant>:  # Abihud
+Apraham:Apraham <ant>:  # Abraham
+Asa:Asa         <ant>:  # Asa
+Cars:Cars       <ant>:  # Charles
+Catok:Catok     <ant>:  # Zadok
+Cion:Cion       <top>:  # Zion
+Cipitay:Cipitay <ant>:  # Zebedee
+Cira:Cira       <ant>:  # Zerah
+Cirupapil:Cirupapil <ant>: # Zerubbabel
+Dmak:Dmak       <al>:   # Acts
+Dongi:Dongi     <ant>:
+Filipi:Filipi   <ant>:  # Philip
+Kalili:Kalili   <top>:  # Galilee
+Hicikiya:Hicikiya <ant>: # Hezekiah
+Hicron:Hicron   <ant>:  # Hezron
+Hirotiho:Hirotiho <ant>: # Herod
+Icip:Icip       <top>:  # Egypt
+Ihoyacin:Ihoyacin <ant>: # Jeconiah
+Ilicapid:Ilicapid <ant>: # Elizabeth
+Ilisapay:Ilisapay <ant>: # Elizabeth
+Iliyacar:Iliyacar <ant>: # Eleazar
+Iliyakim:Iliyakim <ant>: # Eliakim
+Iliyut:Iliyut   <ant>:  # Elihud
+Imanuil:Imanuil <ant>:  # Immanuel
+Isak:Isak       <ant>:  # Isaac
+Isaya:Isaya     <ant>:  # Isaiah
+Iskariyot:Iskariyot <ant>: # Iscariot
+Israil:Israil   <top>:  # Israel
+Kanata:Kanata   <top>:  # Canada
+Katis:Katis     <top>:  # Kadesh
+Kolo:Kolo       <ant>:
+Kristo:Kristo   <al>:   # Christ, Messiah
+Lipanon:Lipanon <top>:  # Lebanon
+Loma:Loma       <top>:  # Rome
+Luka:Luka       <ant>:  # Luke
+Manasi:Manasi   <ant>:
+Mariya:Mariya   <ant>:  # Mary
+Maroko:Maroko   <ant>:  # Mark
+Matan:Matan     <ant>:  # Matthan
+Matay:Matay     <ant>:  # Matthew
+Mayaw:Mayaw     <ant>:
+Nason:Nason     <ant>:  # Nashon
+Ofad:Ofad       <ant>:
+ʼOlic:ʼOlic     <al>:   # Psalm
+Opit:Opit       <ant>:  # Obed
+Osay:Osay       <ant>:
+Panay:Panay     <ant>:
+Pangcah:Pangcah <al>:
+Papilon:Papilon <top>:  # Babylon
+Partolomay:Partolomay <ant>: # Bartholomew
+Pasan:Pasan     <top>:  # Bashan
+Paʼarawan:Paʼarawan <al>: # Revelations
+Piclihim:Piclihim <top>: # Bethlehem
+Piric:Piric     <ant>:  # Perez
+Pitiro:Pitiro   <ant>:  # Peter
+Powac:Powac     <ant>:  # Boaz
+pusong:pusong   <top>:  # Taitung
+Rahap:Rahap     <ant>:  # Rahab
+Ram:Ram         <ant>:  # Ram
+Rihopoam:Rihopoam <ant>: # Rehoboam
+Rucu:Rucu       <ant>:  # Ruth
+Salmon:Salmon   <ant>:  # Salmon
+Sawlo:Sawlo     <ant>:  # Saul
+Sawmah:Sawmah   <ant>:
+Sialtiil:Sialtiil <ant>: # Shealtiel
+Simon:Simon     <ant>:  # Simon
+Solomon:Solomon <ant>:  # Solomon
+Tafiti:Tafiti   <ant>:  # David
+Tamar:Tamar     <ant>:  # Tamar
+Taneng:Taneng   <al>:   # Proverb
+Tatayus:Tatayus <ant>:  # Thaddaeus
+Taywan:Taywan   <top>:  # Taiwan
+Tomas:Tomas     <ant>:  # Thomas
+Uciya:Uciya     <ant>:  # Uzziah
+Uriyah:Uriyah   <ant>:
+Yakop:Yakop     <ant>:  # Jacob, James
+Yihoram:Yihoram <ant>:  # Jehoram
+Yihosafat:Yihosafat <ant>: # Jehoshaphat
+Yirusalim:Yirusalim <top>: # Jerusalem
+Yis:Yis         <ant>:  # Jesus
+Yisan:Yisan     <ant>:  # Judas
+Yisi:Yisi       <ant>:  # Jesse
+Yohani:Yohani   <ant>:  # John
+Yortan:Yortan   <top>:  # Jordan
+Yosif:Yosif     <ant>:  # Joseph
+Yosiya:Yosiya   <ant>:  # Josiah
+Yotam:Yotam     <ant>:  # Jotham
+Yuta:Yuta       <ant>:  # Judah, Jude
+Yutaya:Yutaya   <top>:  # Judea

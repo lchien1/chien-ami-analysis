@@ -1,0 +1,6 @@
+k,nom
+c,nom
+n,gen
+,gen
+m,pos
+n,pos

@@ -1,0 +1,4 @@
+c,nom
+k,nom
+n,gen
+t,dat
