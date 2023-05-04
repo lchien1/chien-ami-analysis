@@ -178,6 +178,7 @@ def make_adverbs(lexicon):
     return adverbs
 
 def write_out(forms):
+    analyses = {}
     with open('output/output.txt', 'w') as f:
         for form in forms:
             formatted_tags = ""
@@ -185,6 +186,7 @@ def write_out(forms):
                 formatted_tags += f'<{tag}>'
             f.write(form.root+formatted_tags+':'+form.text+form.suffix)
             f.write('\n')
+            analyses[form.text+form.suffix] = form.root+formatted_tags
 
 def main():
     # read all the text files
@@ -206,8 +208,13 @@ def main():
     forms = (verbs+pronouns+adjs+numbers+conjunctions+nouns+nounmarkers+
     aspectmarkers+propernouns+dempronouns+prepositions+adverbs)
     # write to an output txt
-    write_out(forms)
-
+    analyses = write_out(forms)
+    while 1:
+        word = input("Input Word: ")
+        try:
+            print(analyses[word])
+        except:
+            pass 
     #print([(con.text+con.suffix, con.tags) for con in conjunctions])
     #print(len(conjunctions))
 
