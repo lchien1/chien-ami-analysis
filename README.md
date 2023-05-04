@@ -2,7 +2,9 @@
 
 This is an analyzer for Amis, built on python. Python code was written to mimic the behavior of https://github.swarthmore.edu/Ling073-sp23/ling073-ami which was built on Apertium tools. Instead of a lexd file, lexicons are written as txt files and patterns are implemented in python code (ami_analyser.py).
 
-Usage: type "python ami_analyser.py" in a terminal.
+Usage: Download the new style txts and the code. Type "python ami_analyser.py" in a terminal.
+
+Key for what the tags mean:
 ```
 Morphological Transducer for Amis
 
@@ -77,3 +79,5 @@ Verb Tense
 <fact>   Factual Mood suffix
 <um>     Commom Noun Marker
 ```
+
+Link to the wiki page: https://wikis.swarthmore.edu/ling073/User:Lchien1/Final_project
