@@ -2,7 +2,7 @@
 
 This is an analyzer for Amis, built on python. Python code was written to mimic the behavior of https://github.swarthmore.edu/Ling073-sp23/ling073-ami which was built on Apertium tools. Instead of a lexd file, lexicons are written as txt files and patterns are implemented in python code (ami_analyser.py).
 
-Usage: Download the new style txts and the code. Type "python ami_analyser.py" in a terminal.
+Usage: Download the new style txts and the code. Type ``python ami_analyser.py`` in a terminal. To analyze over a corpus, first make sure the corpus is saved as a text (``.txt``) file. You can enter the name of the corpus as a command line option when executing ``analyze_corpus.py``. for example, 
 
 Key for what the tags mean:
 ```
