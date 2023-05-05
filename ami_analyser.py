@@ -1,5 +1,6 @@
 from proj_classes import word
 from os import path, listdir
+import csv
 
 
 # store all the contents of text files in dictionary
@@ -179,6 +180,8 @@ def make_adverbs(lexicon):
 
 def write_out(forms):
     analyses = {}
+
+    '''
     with open('output/output.txt', 'w') as f:
         for form in forms:
             formatted_tags = ""
@@ -187,6 +190,20 @@ def write_out(forms):
             f.write(form.root+formatted_tags+':'+form.text+form.suffix)
             f.write('\n')
             analyses[form.text+form.suffix] = form.root+formatted_tags
+    '''
+
+    with open('output/output.csv', 'w') as f:
+        formwriter = csv.writer(f)
+        formwriter.writerow(['form','analysis'])
+        for form in forms:
+            formatted_tags = ""
+            for tag in form.tags:
+                formatted_tags += f'<{tag}>'
+            key = form.text+form.suffix
+            value = form.root+formatted_tags
+            analyses[key] = value
+            formwriter.writerow([key, value])
+
     return analyses
 
 def main():
