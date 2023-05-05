@@ -47,6 +47,20 @@ def letter_changer(parts, stripped):
         temp = stripped[0].replace('G','',1)
         parts.append([temp] + stripped[1:])
 
+
+def letter_alternater(parts,stripped):
+    if stripped[0][0] in ('o','u'):
+        parts.append(['o'] + stripped[1:])
+        parts.append(['u'] + stripped[1:])
+    elif stripped[0][0] == 'f':
+        parts.append(['f'] + stripped[1:])
+        parts.append(['v'] + stripped[1:])
+        parts.append(['b'] + stripped[1:])
+    elif stripped[0][0] in ('r','l'):
+        parts.append(['r'] + stripped[1:])
+        parts.append(['l'] + stripped[1:])
+
+
 def line_splitter(path):
     with open(path) as f:
         lines = [line for line in f]
@@ -58,10 +72,12 @@ def line_splitter(path):
             stripped.pop(0)
         if stripped[0][0] < 'a': # if capital letter
             letter_changer(parts,stripped)
+        #elif stripped[0][0] in ['o','u','f','r','l']:
+            #letter_alternater(parts,stripped)
         else:
             parts.append(stripped)
-
     return parts
+
 
 def txt_write(lines, path):
     with open(path, "w+") as f:

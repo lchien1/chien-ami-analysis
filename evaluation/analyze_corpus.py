@@ -7,19 +7,22 @@ import resource
 def read_corpus(path):
     with open(path) as f:
         words = set()
+        #lstwords = tuple()
         for line in f.read().splitlines():
             words.update(findall(r"[\w']+", line))
-    return words
+            #words+=tuple(findall(r"[\w']+", line))
+    return words # words
 
 
 def check_coverage(corpus_path):
 
     words = read_corpus(corpus_path)
-    path = "../output/notags.txt"
+    path = "../output/output.csv"
     with open(path) as f:
-        forms = tuple(row.split()[0] for row in f)
-    print(forms[-1])
+        forms = tuple(row.split(',')[0] for row in f)
+    #print(forms[-1])
     yes = 0
+    #print(words)
     for word in words:
         if word in forms:
             yes += 1

@@ -19,7 +19,7 @@ def populate_dict():
             splits = line.split(',')
             if len(splits) > 1:
                 if splits[-1] in ["ay", "aw", "en", "an", "nan"]:
-                    if len(splits) == 2: # the mood one is just different
+                    if fname == 'Mood.txt': # the mood one is just different
                         lexeme = word(tags = [splits[0]], suffix = splits[-1])
                     else:
                         lexeme = word(splits[0],splits[1:-1],splits[-1])
@@ -183,7 +183,6 @@ def write_out(forms):
 
     with open('output/output.csv', 'w') as f:
         formwriter = csv.writer(f)
-        formwriter.writerow(['form','analysis'])
 
         for form in forms:
             formatted_tags = ""
@@ -217,15 +216,15 @@ def main():
     aspectmarkers+propernouns+dempronouns+prepositions+adverbs)
     # write to an output txt
     analyses = write_out(forms)
-    print(analyses)
-    '''
-    while 1:
-        word = input("Input Word: ")
-        try:
-            print(analyses[word])
-        except:
-            pass
-    '''
+    #print(analyses)
+
+    #while 1:
+    #    word = input("Input Word: ")
+    #    try:
+    #        print(analyses[word])
+    #    except:
+    #        pass
+
     #print([(con.text+con.suffix, con.tags) for con in conjunctions])
     #print(len(conjunctions))
 
