@@ -210,12 +210,15 @@ def main():
     aspectmarkers+propernouns+dempronouns+prepositions+adverbs)
     # write to an output txt
     analyses = write_out(forms)
+    print(analyses)
+    '''
     while 1:
         word = input("Input Word: ")
         try:
             print(analyses[word])
         except:
             pass
+    '''
     #print([(con.text+con.suffix, con.tags) for con in conjunctions])
     #print(len(conjunctions))
 
