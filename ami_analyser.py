@@ -34,7 +34,7 @@ def populate_dict():
 def make_verbs(lexicon):
     # pattern:
     # Negative?(1) Voice?(1) Causative?(1) VerbApplicatives?(1) VerbRoot [<v>:]
-    # Negative?(2) Voice?(2) Causative?(2) VerbApplicatives?(2) AlsoVoice? Mood?
+    # Negative? Voice? Causative? VerbApplicatives? AlsoVoice? Mood?
     verbs = [word(lexeme.text, ["v"], root = lexeme.text)
     for lexeme in lexicon["VerbRoot"]]
     opts = ["Negative","Voice","Causative","VerbApplicatives","AlsoVoice",
@@ -181,20 +181,10 @@ def make_adverbs(lexicon):
 def write_out(forms):
     analyses = {}
 
-    '''
-    with open('output/output.txt', 'w') as f:
-        for form in forms:
-            formatted_tags = ""
-            for tag in form.tags:
-                formatted_tags += f'<{tag}>'
-            f.write(form.root+formatted_tags+':'+form.text+form.suffix)
-            f.write('\n')
-            analyses[form.text+form.suffix] = form.root+formatted_tags
-    '''
-
     with open('output/output.csv', 'w') as f:
         formwriter = csv.writer(f)
         formwriter.writerow(['form','analysis'])
+
         for form in forms:
             formatted_tags = ""
             for tag in form.tags:

@@ -1,10 +1,7 @@
 from sys import argv
 from re import findall
-import tracemalloc
 import time
 import resource
-
-
 
 
 def read_corpus(path):
@@ -13,6 +10,7 @@ def read_corpus(path):
         for line in f.read().splitlines():
             words.update(findall(r"[\w']+", line))
     return words
+
 
 def check_coverage(corpus_path):
 
@@ -28,13 +26,11 @@ def check_coverage(corpus_path):
     return yes, len(words)
 
 
-
-
 def main():
     time_start = time.perf_counter()
 
     yes, length = check_coverage(argv[1])
-    
+
     time_elapsed = (time.perf_counter() - time_start)
     memMb=resource.getrusage(resource.RUSAGE_SELF).ru_maxrss/1024.0/1024.0
 
