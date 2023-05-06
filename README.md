@@ -4,6 +4,8 @@ This is an analyzer for Amis, built on python. Python code was written to mimic 
 
 Usage: Download the new style txts and the code. Type ``python ami_analyser.py`` in a terminal. To analyze over a corpus, first make sure the corpus is saved as a text (``.txt``) file. You can enter the name of the corpus as a command line option when executing ``analyze_corpus.py``. For example, you can type ``python analyze_corpus.py ami.corpus.basic.txt``.
 
+Analysis over a corpus will show the coverage in terms of unique tokens and efficiency including time for lookups and memory usage. 
+
 Key for what the tags mean:
 ```
 Morphological Transducer for Amis
